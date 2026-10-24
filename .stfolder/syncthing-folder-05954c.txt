@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kpddr-wjtvp
+created: 2026-10-24T09:14:37Z
